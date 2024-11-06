@@ -1,0 +1,10 @@
+/*フォント指定*/
+body {
+    font-family: "Poppins", "Zen+Maru+Gothic&display";
+}
+
+
+.selected {
+    box-shadow: 0 0 0 4px #FFA647;
+    transform: scale(1.1);
+}
